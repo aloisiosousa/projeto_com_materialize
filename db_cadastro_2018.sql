@@ -1,0 +1,1 @@
+create database if not exists db_cadastro_2018 default character set utf8 default collate utf8_general_ci;
